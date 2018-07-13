@@ -1,7 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="579fe440-6b88-4a92-86de-123fcf30e428" name="Default" comment="" />
+    <list default="true" id="579fe440-6b88-4a92-86de-123fcf30e428" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="Y:/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="Y:/.idea/Y.iml" afterPath="Y:/.idea/Y.iml" />
+      <change type="MODIFICATION" beforePath="Y:/.idea/modules.xml" afterPath="Y:/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="Y:/.idea/workspace.xml" afterPath="Y:/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="Y:/DataDict.php" afterPath="Y:/DataDict.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel.php" afterPath="Y:/PHPExcel.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Autoloader.php" afterPath="Y:/PHPExcel/Autoloader.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/APC.php" afterPath="Y:/PHPExcel/CachedObjectStorage/APC.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/CacheBase.php" afterPath="Y:/PHPExcel/CachedObjectStorage/CacheBase.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/DiscISAM.php" afterPath="Y:/PHPExcel/CachedObjectStorage/DiscISAM.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/ICache.php" afterPath="Y:/PHPExcel/CachedObjectStorage/ICache.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/Igbinary.php" afterPath="Y:/PHPExcel/CachedObjectStorage/Igbinary.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/Memcache.php" afterPath="Y:/PHPExcel/CachedObjectStorage/Memcache.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/Memory.php" afterPath="Y:/PHPExcel/CachedObjectStorage/Memory.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/MemoryGZip.php" afterPath="Y:/PHPExcel/CachedObjectStorage/MemoryGZip.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/MemorySerialized.php" afterPath="Y:/PHPExcel/CachedObjectStorage/MemorySerialized.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/PHPTemp.php" afterPath="Y:/PHPExcel/CachedObjectStorage/PHPTemp.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/SQLite.php" afterPath="Y:/PHPExcel/CachedObjectStorage/SQLite.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/SQLite3.php" afterPath="Y:/PHPExcel/CachedObjectStorage/SQLite3.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorage/Wincache.php" afterPath="Y:/PHPExcel/CachedObjectStorage/Wincache.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CachedObjectStorageFactory.php" afterPath="Y:/PHPExcel/CachedObjectStorageFactory.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CalcEngine/CyclicReferenceStack.php" afterPath="Y:/PHPExcel/CalcEngine/CyclicReferenceStack.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/CalcEngine/Logger.php" afterPath="Y:/PHPExcel/CalcEngine/Logger.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation.php" afterPath="Y:/PHPExcel/Calculation.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Database.php" afterPath="Y:/PHPExcel/Calculation/Database.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/DateTime.php" afterPath="Y:/PHPExcel/Calculation/DateTime.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Engineering.php" afterPath="Y:/PHPExcel/Calculation/Engineering.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Exception.php" afterPath="Y:/PHPExcel/Calculation/Exception.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/ExceptionHandler.php" afterPath="Y:/PHPExcel/Calculation/ExceptionHandler.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Financial.php" afterPath="Y:/PHPExcel/Calculation/Financial.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/FormulaParser.php" afterPath="Y:/PHPExcel/Calculation/FormulaParser.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/FormulaToken.php" afterPath="Y:/PHPExcel/Calculation/FormulaToken.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Function.php" afterPath="Y:/PHPExcel/Calculation/Function.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Functions.php" afterPath="Y:/PHPExcel/Calculation/Functions.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Logical.php" afterPath="Y:/PHPExcel/Calculation/Logical.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/LookupRef.php" afterPath="Y:/PHPExcel/Calculation/LookupRef.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/MathTrig.php" afterPath="Y:/PHPExcel/Calculation/MathTrig.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Statistical.php" afterPath="Y:/PHPExcel/Calculation/Statistical.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/TextData.php" afterPath="Y:/PHPExcel/Calculation/TextData.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/Token/Stack.php" afterPath="Y:/PHPExcel/Calculation/Token/Stack.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Calculation/functionlist.txt" afterPath="Y:/PHPExcel/Calculation/functionlist.txt" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Cell.php" afterPath="Y:/PHPExcel/Cell.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Cell/AdvancedValueBinder.php" afterPath="Y:/PHPExcel/Cell/AdvancedValueBinder.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Cell/DataType.php" afterPath="Y:/PHPExcel/Cell/DataType.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Cell/DataValidation.php" afterPath="Y:/PHPExcel/Cell/DataValidation.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Cell/DefaultValueBinder.php" afterPath="Y:/PHPExcel/Cell/DefaultValueBinder.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Cell/Hyperlink.php" afterPath="Y:/PHPExcel/Cell/Hyperlink.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Cell/IValueBinder.php" afterPath="Y:/PHPExcel/Cell/IValueBinder.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart.php" afterPath="Y:/PHPExcel/Chart.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Axis.php" afterPath="Y:/PHPExcel/Chart/Axis.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/DataSeries.php" afterPath="Y:/PHPExcel/Chart/DataSeries.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/DataSeriesValues.php" afterPath="Y:/PHPExcel/Chart/DataSeriesValues.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Exception.php" afterPath="Y:/PHPExcel/Chart/Exception.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/GridLines.php" afterPath="Y:/PHPExcel/Chart/GridLines.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Layout.php" afterPath="Y:/PHPExcel/Chart/Layout.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Legend.php" afterPath="Y:/PHPExcel/Chart/Legend.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/PlotArea.php" afterPath="Y:/PHPExcel/Chart/PlotArea.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Properties.php" afterPath="Y:/PHPExcel/Chart/Properties.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" afterPath="Y:/PHPExcel/Chart/Renderer/PHP Charting Libraries.txt" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Renderer/jpgraph.php" afterPath="Y:/PHPExcel/Chart/Renderer/jpgraph.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Chart/Title.php" afterPath="Y:/PHPExcel/Chart/Title.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Comment.php" afterPath="Y:/PHPExcel/Comment.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/DocumentProperties.php" afterPath="Y:/PHPExcel/DocumentProperties.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/DocumentSecurity.php" afterPath="Y:/PHPExcel/DocumentSecurity.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Exception.php" afterPath="Y:/PHPExcel/Exception.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/HashTable.php" afterPath="Y:/PHPExcel/HashTable.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Helper/HTML.php" afterPath="Y:/PHPExcel/Helper/HTML.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/IComparable.php" afterPath="Y:/PHPExcel/IComparable.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/IOFactory.php" afterPath="Y:/PHPExcel/IOFactory.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/NamedRange.php" afterPath="Y:/PHPExcel/NamedRange.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Abstract.php" afterPath="Y:/PHPExcel/Reader/Abstract.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/CSV.php" afterPath="Y:/PHPExcel/Reader/CSV.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/DefaultReadFilter.php" afterPath="Y:/PHPExcel/Reader/DefaultReadFilter.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel2003XML.php" afterPath="Y:/PHPExcel/Reader/Excel2003XML.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel2007.php" afterPath="Y:/PHPExcel/Reader/Excel2007.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel2007/Chart.php" afterPath="Y:/PHPExcel/Reader/Excel2007/Chart.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel2007/Theme.php" afterPath="Y:/PHPExcel/Reader/Excel2007/Theme.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5.php" afterPath="Y:/PHPExcel/Reader/Excel5.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/Color.php" afterPath="Y:/PHPExcel/Reader/Excel5/Color.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/Color/BIFF5.php" afterPath="Y:/PHPExcel/Reader/Excel5/Color/BIFF5.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/Color/BIFF8.php" afterPath="Y:/PHPExcel/Reader/Excel5/Color/BIFF8.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/Color/BuiltIn.php" afterPath="Y:/PHPExcel/Reader/Excel5/Color/BuiltIn.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/ErrorCode.php" afterPath="Y:/PHPExcel/Reader/Excel5/ErrorCode.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/Escher.php" afterPath="Y:/PHPExcel/Reader/Excel5/Escher.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/MD5.php" afterPath="Y:/PHPExcel/Reader/Excel5/MD5.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/RC4.php" afterPath="Y:/PHPExcel/Reader/Excel5/RC4.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/Style/Border.php" afterPath="Y:/PHPExcel/Reader/Excel5/Style/Border.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Excel5/Style/FillPattern.php" afterPath="Y:/PHPExcel/Reader/Excel5/Style/FillPattern.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Exception.php" afterPath="Y:/PHPExcel/Reader/Exception.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/Gnumeric.php" afterPath="Y:/PHPExcel/Reader/Gnumeric.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/HTML.php" afterPath="Y:/PHPExcel/Reader/HTML.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/IReadFilter.php" afterPath="Y:/PHPExcel/Reader/IReadFilter.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/IReader.php" afterPath="Y:/PHPExcel/Reader/IReader.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/OOCalc.php" afterPath="Y:/PHPExcel/Reader/OOCalc.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Reader/SYLK.php" afterPath="Y:/PHPExcel/Reader/SYLK.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/ReferenceHelper.php" afterPath="Y:/PHPExcel/ReferenceHelper.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/RichText.php" afterPath="Y:/PHPExcel/RichText.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/RichText/ITextElement.php" afterPath="Y:/PHPExcel/RichText/ITextElement.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/RichText/Run.php" afterPath="Y:/PHPExcel/RichText/Run.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/RichText/TextElement.php" afterPath="Y:/PHPExcel/RichText/TextElement.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Settings.php" afterPath="Y:/PHPExcel/Settings.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/CodePage.php" afterPath="Y:/PHPExcel/Shared/CodePage.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Date.php" afterPath="Y:/PHPExcel/Shared/Date.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Drawing.php" afterPath="Y:/PHPExcel/Shared/Drawing.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher.php" afterPath="Y:/PHPExcel/Shared/Escher.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher/DgContainer.php" afterPath="Y:/PHPExcel/Shared/Escher/DgContainer.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" afterPath="Y:/PHPExcel/Shared/Escher/DgContainer/SpgrContainer.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" afterPath="Y:/PHPExcel/Shared/Escher/DgContainer/SpgrContainer/SpContainer.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher/DggContainer.php" afterPath="Y:/PHPExcel/Shared/Escher/DggContainer.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" afterPath="Y:/PHPExcel/Shared/Escher/DggContainer/BstoreContainer.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" afterPath="Y:/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" afterPath="Y:/PHPExcel/Shared/Escher/DggContainer/BstoreContainer/BSE/Blip.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Excel5.php" afterPath="Y:/PHPExcel/Shared/Excel5.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/File.php" afterPath="Y:/PHPExcel/Shared/File.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/Font.php" afterPath="Y:/PHPExcel/Shared/Font.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/CHANGELOG.TXT" afterPath="Y:/PHPExcel/Shared/JAMA/CHANGELOG.TXT" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" afterPath="Y:/PHPExcel/Shared/JAMA/CholeskyDecomposition.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" afterPath="Y:/PHPExcel/Shared/JAMA/EigenvalueDecomposition.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/LUDecomposition.php" afterPath="Y:/PHPExcel/Shared/JAMA/LUDecomposition.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/Matrix.php" afterPath="Y:/PHPExcel/Shared/JAMA/Matrix.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/QRDecomposition.php" afterPath="Y:/PHPExcel/Shared/JAMA/QRDecomposition.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" afterPath="Y:/PHPExcel/Shared/JAMA/SingularValueDecomposition.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/utils/Error.php" afterPath="Y:/PHPExcel/Shared/JAMA/utils/Error.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/JAMA/utils/Maths.php" afterPath="Y:/PHPExcel/Shared/JAMA/utils/Maths.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/OLE.php" afterPath="Y:/PHPExcel/Shared/OLE.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/OLE/ChainedBlockStream.php" afterPath="Y:/PHPExcel/Shared/OLE/ChainedBlockStream.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/OLE/PPS.php" afterPath="Y:/PHPExcel/Shared/OLE/PPS.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/OLE/PPS/File.php" afterPath="Y:/PHPExcel/Shared/OLE/PPS/File.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/OLE/PPS/Root.php" afterPath="Y:/PHPExcel/Shared/OLE/PPS/Root.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/OLERead.php" afterPath="Y:/PHPExcel/Shared/OLERead.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" afterPath="Y:/PHPExcel/Shared/PCLZip/gnu-lgpl.txt" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/PCLZip/pclzip.lib.php" afterPath="Y:/PHPExcel/Shared/PCLZip/pclzip.lib.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/PCLZip/readme.txt" afterPath="Y:/PHPExcel/Shared/PCLZip/readme.txt" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/PasswordHasher.php" afterPath="Y:/PHPExcel/Shared/PasswordHasher.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/String.php" afterPath="Y:/PHPExcel/Shared/String.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/TimeZone.php" afterPath="Y:/PHPExcel/Shared/TimeZone.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/XMLWriter.php" afterPath="Y:/PHPExcel/Shared/XMLWriter.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/ZipArchive.php" afterPath="Y:/PHPExcel/Shared/ZipArchive.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/ZipStreamWrapper.php" afterPath="Y:/PHPExcel/Shared/ZipStreamWrapper.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/trend/bestFitClass.php" afterPath="Y:/PHPExcel/Shared/trend/bestFitClass.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/trend/exponentialBestFitClass.php" afterPath="Y:/PHPExcel/Shared/trend/exponentialBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/trend/linearBestFitClass.php" afterPath="Y:/PHPExcel/Shared/trend/linearBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/trend/logarithmicBestFitClass.php" afterPath="Y:/PHPExcel/Shared/trend/logarithmicBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/trend/polynomialBestFitClass.php" afterPath="Y:/PHPExcel/Shared/trend/polynomialBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/trend/powerBestFitClass.php" afterPath="Y:/PHPExcel/Shared/trend/powerBestFitClass.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Shared/trend/trendClass.php" afterPath="Y:/PHPExcel/Shared/trend/trendClass.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style.php" afterPath="Y:/PHPExcel/Style.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Alignment.php" afterPath="Y:/PHPExcel/Style/Alignment.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Border.php" afterPath="Y:/PHPExcel/Style/Border.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Borders.php" afterPath="Y:/PHPExcel/Style/Borders.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Color.php" afterPath="Y:/PHPExcel/Style/Color.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Conditional.php" afterPath="Y:/PHPExcel/Style/Conditional.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Fill.php" afterPath="Y:/PHPExcel/Style/Fill.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Font.php" afterPath="Y:/PHPExcel/Style/Font.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/NumberFormat.php" afterPath="Y:/PHPExcel/Style/NumberFormat.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Protection.php" afterPath="Y:/PHPExcel/Style/Protection.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Style/Supervisor.php" afterPath="Y:/PHPExcel/Style/Supervisor.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet.php" afterPath="Y:/PHPExcel/Worksheet.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/AutoFilter.php" afterPath="Y:/PHPExcel/Worksheet/AutoFilter.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/AutoFilter/Column.php" afterPath="Y:/PHPExcel/Worksheet/AutoFilter/Column.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" afterPath="Y:/PHPExcel/Worksheet/AutoFilter/Column/Rule.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/BaseDrawing.php" afterPath="Y:/PHPExcel/Worksheet/BaseDrawing.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/CellIterator.php" afterPath="Y:/PHPExcel/Worksheet/CellIterator.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/Column.php" afterPath="Y:/PHPExcel/Worksheet/Column.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/ColumnCellIterator.php" afterPath="Y:/PHPExcel/Worksheet/ColumnCellIterator.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/ColumnDimension.php" afterPath="Y:/PHPExcel/Worksheet/ColumnDimension.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/ColumnIterator.php" afterPath="Y:/PHPExcel/Worksheet/ColumnIterator.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/Dimension.php" afterPath="Y:/PHPExcel/Worksheet/Dimension.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/Drawing.php" afterPath="Y:/PHPExcel/Worksheet/Drawing.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/Drawing/Shadow.php" afterPath="Y:/PHPExcel/Worksheet/Drawing/Shadow.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/HeaderFooter.php" afterPath="Y:/PHPExcel/Worksheet/HeaderFooter.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/HeaderFooterDrawing.php" afterPath="Y:/PHPExcel/Worksheet/HeaderFooterDrawing.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/MemoryDrawing.php" afterPath="Y:/PHPExcel/Worksheet/MemoryDrawing.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/PageMargins.php" afterPath="Y:/PHPExcel/Worksheet/PageMargins.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/PageSetup.php" afterPath="Y:/PHPExcel/Worksheet/PageSetup.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/Protection.php" afterPath="Y:/PHPExcel/Worksheet/Protection.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/Row.php" afterPath="Y:/PHPExcel/Worksheet/Row.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/RowCellIterator.php" afterPath="Y:/PHPExcel/Worksheet/RowCellIterator.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/RowDimension.php" afterPath="Y:/PHPExcel/Worksheet/RowDimension.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/RowIterator.php" afterPath="Y:/PHPExcel/Worksheet/RowIterator.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Worksheet/SheetView.php" afterPath="Y:/PHPExcel/Worksheet/SheetView.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/WorksheetIterator.php" afterPath="Y:/PHPExcel/WorksheetIterator.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Abstract.php" afterPath="Y:/PHPExcel/Writer/Abstract.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/CSV.php" afterPath="Y:/PHPExcel/Writer/CSV.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007.php" afterPath="Y:/PHPExcel/Writer/Excel2007.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Chart.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Chart.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Comments.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Comments.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/ContentTypes.php" afterPath="Y:/PHPExcel/Writer/Excel2007/ContentTypes.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/DocProps.php" afterPath="Y:/PHPExcel/Writer/Excel2007/DocProps.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Drawing.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Drawing.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Rels.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Rels.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/RelsRibbon.php" afterPath="Y:/PHPExcel/Writer/Excel2007/RelsRibbon.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/RelsVBA.php" afterPath="Y:/PHPExcel/Writer/Excel2007/RelsVBA.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/StringTable.php" afterPath="Y:/PHPExcel/Writer/Excel2007/StringTable.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Style.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Style.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Theme.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Theme.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Workbook.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Workbook.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/Worksheet.php" afterPath="Y:/PHPExcel/Writer/Excel2007/Worksheet.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel2007/WriterPart.php" afterPath="Y:/PHPExcel/Writer/Excel2007/WriterPart.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5.php" afterPath="Y:/PHPExcel/Writer/Excel5.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5/BIFFwriter.php" afterPath="Y:/PHPExcel/Writer/Excel5/BIFFwriter.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5/Escher.php" afterPath="Y:/PHPExcel/Writer/Excel5/Escher.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5/Font.php" afterPath="Y:/PHPExcel/Writer/Excel5/Font.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5/Parser.php" afterPath="Y:/PHPExcel/Writer/Excel5/Parser.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5/Workbook.php" afterPath="Y:/PHPExcel/Writer/Excel5/Workbook.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5/Worksheet.php" afterPath="Y:/PHPExcel/Writer/Excel5/Worksheet.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Excel5/Xf.php" afterPath="Y:/PHPExcel/Writer/Excel5/Xf.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/Exception.php" afterPath="Y:/PHPExcel/Writer/Exception.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/HTML.php" afterPath="Y:/PHPExcel/Writer/HTML.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/IWriter.php" afterPath="Y:/PHPExcel/Writer/IWriter.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument.php" afterPath="Y:/PHPExcel/Writer/OpenDocument.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/Cell/Comment.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/Cell/Comment.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/Content.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/Content.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/Meta.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/Meta.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/MetaInf.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/MetaInf.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/Mimetype.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/Mimetype.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/Settings.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/Settings.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/Styles.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/Styles.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/Thumbnails.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/Thumbnails.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/OpenDocument/WriterPart.php" afterPath="Y:/PHPExcel/Writer/OpenDocument/WriterPart.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/PDF.php" afterPath="Y:/PHPExcel/Writer/PDF.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/PDF/Core.php" afterPath="Y:/PHPExcel/Writer/PDF/Core.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/PDF/DomPDF.php" afterPath="Y:/PHPExcel/Writer/PDF/DomPDF.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/PDF/mPDF.php" afterPath="Y:/PHPExcel/Writer/PDF/mPDF.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/Writer/PDF/tcPDF.php" afterPath="Y:/PHPExcel/Writer/PDF/tcPDF.php" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/bg/config" afterPath="Y:/PHPExcel/locale/bg/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/cs/config" afterPath="Y:/PHPExcel/locale/cs/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/cs/functions" afterPath="Y:/PHPExcel/locale/cs/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/da/config" afterPath="Y:/PHPExcel/locale/da/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/da/functions" afterPath="Y:/PHPExcel/locale/da/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/de/config" afterPath="Y:/PHPExcel/locale/de/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/de/functions" afterPath="Y:/PHPExcel/locale/de/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/en/uk/config" afterPath="Y:/PHPExcel/locale/en/uk/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/es/config" afterPath="Y:/PHPExcel/locale/es/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/es/functions" afterPath="Y:/PHPExcel/locale/es/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/fi/config" afterPath="Y:/PHPExcel/locale/fi/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/fi/functions" afterPath="Y:/PHPExcel/locale/fi/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/fr/config" afterPath="Y:/PHPExcel/locale/fr/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/fr/functions" afterPath="Y:/PHPExcel/locale/fr/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/hu/config" afterPath="Y:/PHPExcel/locale/hu/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/hu/functions" afterPath="Y:/PHPExcel/locale/hu/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/it/config" afterPath="Y:/PHPExcel/locale/it/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/it/functions" afterPath="Y:/PHPExcel/locale/it/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/nl/config" afterPath="Y:/PHPExcel/locale/nl/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/nl/functions" afterPath="Y:/PHPExcel/locale/nl/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/no/config" afterPath="Y:/PHPExcel/locale/no/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/no/functions" afterPath="Y:/PHPExcel/locale/no/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/pl/config" afterPath="Y:/PHPExcel/locale/pl/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/pl/functions" afterPath="Y:/PHPExcel/locale/pl/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/pt/br/config" afterPath="Y:/PHPExcel/locale/pt/br/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/pt/br/functions" afterPath="Y:/PHPExcel/locale/pt/br/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/pt/config" afterPath="Y:/PHPExcel/locale/pt/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/pt/functions" afterPath="Y:/PHPExcel/locale/pt/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/ru/config" afterPath="Y:/PHPExcel/locale/ru/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/ru/functions" afterPath="Y:/PHPExcel/locale/ru/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/sv/config" afterPath="Y:/PHPExcel/locale/sv/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/sv/functions" afterPath="Y:/PHPExcel/locale/sv/functions" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/tr/config" afterPath="Y:/PHPExcel/locale/tr/config" />
+      <change type="MODIFICATION" beforePath="Y:/PHPExcel/locale/tr/functions" afterPath="Y:/PHPExcel/locale/tr/functions" />
+      <change type="MODIFICATION" beforePath="Y:/index.php" afterPath="Y:/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +276,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://Y:/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="180">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -54,6 +315,9 @@
       <find>$tableName</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="Y:/" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -75,6 +339,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -159,23 +424,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531396438130</updated>
-      <workItem from="1531396439983" duration="23223000" />
+      <workItem from="1531396439983" duration="23832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23223000" />
+    <option name="totallyTimeSpent" value="23832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -222,8 +486,8 @@
     </entry>
     <entry file="file://Y:/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="180">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding />
         </state>
       </provider>
